@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Antes de usar meus códigos ou redistribui-los ou fazerem o que quiserem atente-se às licençça pois ela é totalmente permissiva mas em contra partida você sede parte da sua liberdade e direitos para mim. É uma licensa que eu mesmo criei e leva o nome de licença Royal.
+
 <!--
 **ilixindri/ilixindri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
