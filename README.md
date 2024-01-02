@@ -4,7 +4,7 @@ Antes de usar meus códigos ou redistribui-los ou fazerem o que quiserem atente-
 
 Quero pautar que tudo o que foi produzido por mim e continua sendo produzido por mim desde o nascimento se mantém sobre essa licença e caso eu em loucura deixe de requerer esse direito hoje em pleno estado de sanidade exijo que o direito seja ressarcido quando eu voltar da minha loucura. Contribuições em coisas que usam outras licenças para as exatas minhas contribuições a licença válida é a minha licença, para valer quando parte dos direitos das pessoas e liberdades delas eu tenho nesse caso é usado a quantidade de linhas contribuídas e a importâmcia do que foi produzido e aplicado uma alícota de 15% sobre o total que resulta na quantidade de direito e liberdade que tenho da referida pessoa que usou minhas contribuições.
 
-A licença Royal foi escrita e apagada várias vezes por loucura então aguardem a publicação da licença royal nesse repositório (ilixindri) ou no repositório ilixindri.github.io.
+A licença Royal atual está no repositório de contracts ou no repositório de copyrights.
 
 <!--
 **ilixindri/ilixindri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
