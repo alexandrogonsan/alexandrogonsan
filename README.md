@@ -1,17 +1,9 @@
 ### Hi there 👋
-
-Antes de usar meus códigos ou redistribui-los ou fazerem o que quiserem atente-se à licença pois ela é totalmente permissiva mas em contra partida você sede parte da toda a sua liberdade e todos os seus direitos para mim. É uma licensa que eu mesmo criei e leva o nome de licença Royal.
-
-Quero pautar que tudo o que foi produzido por mim e continua sendo produzido por mim desde o nascimento se mantém sobre essa licença e caso eu em loucura deixe de requerer esse direito hoje em pleno estado de sanidade exijo que o direito seja ressarcido quando eu voltar da minha loucura. Contribuições em coisas que usam outras licenças para as exatas minhas contribuições a licença válida é a minha licença, para valer quando parte dos direitos das pessoas e liberdades delas eu tenho nesse caso é usado a quantidade de linhas contribuídas e a importâmcia do que foi produzido e aplicado uma alícota de 15% sobre o total que resulta na quantidade de direito e liberdade que tenho da referida pessoa que usou minhas contribuições.
-
-A licença Royal atual está no repositório de contracts ou no repositório de copyrights.
-
 <!--
 **ilixindri/ilixindri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+-->
+- 🔭 I’m currently working on "The CRM (repos NestJS e NextJS)", "DragonGakure clan automations from the RPG Zarcovi (repo )"
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
