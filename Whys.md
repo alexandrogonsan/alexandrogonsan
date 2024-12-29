@@ -1,4 +1,5 @@
- - Por que não uso Next?
-Pois um dos pilares mais importantes que motivou a criação dos frameworks de JavaScript foi navegar por um site sem ver o carregamento e recarregamentos de páginas ao clicar durante a navegação entre os path de um site.
+- Why don't I use Next?
 
- - - Comecei usar Next.
+Because one of the most important pillars that motivated the creation of JavaScript frameworks was to navigate through a website without seeing the loading and reloading of pages when clicking while navigating between the paths of a website.
+
+- - I started using Next.
