@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with scraping websites made with FrameWorks JavaScript or TypeScript and CLI tools for WhatsApp.
 - 💬 Ask me about Python, PHP or anything.
 - 📫 How to reach me: wa.me/5595981042843
-- 😄 Pronouns: He, We and They.
+- 😄 Pronouns: He/Him, We/Us and They/Them
 - ⚡ Fun fact: Always at home.
