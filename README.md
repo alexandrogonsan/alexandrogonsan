@@ -5,9 +5,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on The CRM (repos NestJS e NextJS).
 - 🌱 I’m currently learning NestJS e NextJS.
-- 👯 I’m looking to collaborate on DragonGakure clan automations from the RPG Zarcovi.
-- 🤔 I’m looking for help with scraping websites made with FrameWorks JavaScript or TypeScript and CLI tools for WhatsApp.
+- 👯 I'm looking to collaborate on RPG game automations on WhatSApp.
+- 🤔 I'm looking for help with scrape websites using browser drivers in headless mode.
 - 💬 Ask me about Python, PHP or anything.
-- 📫 How to reach me: wa.me/5595981042843
-- 😄 Pronouns: He/Him, We/Us and They/Them
+- 📫 How to reach me: wa.me/5595981042843.
+- 😄 Pronouns: He/Him, We/Us and They/Them.
 - ⚡ Fun fact: Always at home.
