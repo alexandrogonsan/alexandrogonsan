@@ -1,12 +1,12 @@
-Hi there! 👋 Alex here
+Olá! 👋 Alex aqui
 
-Welcome to my profile.
+Bem-vindo ao meu perfil.
 
- - 🔭 Currently working on: **The CRM**
- - 🌱 Learning: **NestJS** and **NextJS**
- - 👯 Looking to collaborate on: RPG game automations for WhatsApp
- - 🤔 Seeking help with: Web scraping using browser drivers in headless mode
- - 💬 Ask me about: Python, PHP, or anything else
- - 📫 Contact: [WhatsApp](https://wa.me/5595981042843)
- - 😄 Pronouns: He/Him, We/Us, They/Them
- - ⚡ Fun fact: Always at home
+ - 🔭 Atualmente trabalhando em: **Afiliado**
+ - 🌱 Aprendendo: **Anúncios**
+ - 👯 Procurando colaborar em: Investimento financeiro em anúncios de produtos de outras pessoas.
+ - 🤔 Buscando ajuda com: Web scraping usando drivers de navegador em modo headless
+ - 💬 Me pergunte sobre: Python, PHP, ou qualquer outra coisa
+ - 📫 Contato: [WhatsApp](https://wa.me/5595981042843)
+ - 😄 Pronomes: Ele/Dele, Nós, Eles/Deles
+ - ⚡ Fato divertido: Sempre em casa
