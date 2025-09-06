@@ -10,3 +10,5 @@ Bem-vindo ao meu perfil.
  - 📫 Contato: [WhatsApp](https://wa.me/5595981042843)
  - 😄 Pronomes: Ele/Dele, Nós, Eles/Deles
  - ⚡ Fato divertido: Sempre em casa
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrogonsan&hide_progress=true)
