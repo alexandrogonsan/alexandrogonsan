@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil.
  - 👯 Procurando colaborar em: Investimento financeiro em anúncios de produtos de outras pessoas.
  - 🤔 Buscando ajuda com: Web scraping usando drivers de navegador em modo headless
  - 💬 Me pergunte sobre: Python, PHP, ou qualquer outra coisa
- - 📫 Contato: [WhatsApp](https://wa.me/5595981042843)
+ - 📫 Contato: https://wa.me/5595981042843 (WhatSApp)
  - 😄 Pronomes: Ele/Dele, Nós, Eles/Deles
  - ⚡ Fato divertido: Sempre em casa
 
